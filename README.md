@@ -1,14 +1,11 @@
-# DIELCA War Room Final Visual Scoreboard
+# DIELCA Final Visual Scoreboard
 
-Panel visual premium para proyectar resultados del workshop.
+Versión corregida para GitHub Pages.
 
 Archivos:
-- scoreboard.html
+- index.html
 - scoreboard.css
 - scoreboard.js
+- README.md
 
-Uso:
-1. Abrir scoreboard.html.
-2. Seleccionar fase y ronda.
-3. Introducir puntuaciones.
-4. Proyectar en pantalla completa.
+Sube estos archivos al repositorio. GitHub Pages cargará automáticamente index.html.
