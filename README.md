@@ -1,0 +1,1 @@
+Scoreboard final acumulado prospección + negociación
