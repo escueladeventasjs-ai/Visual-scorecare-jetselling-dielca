@@ -1,0 +1,10 @@
+{
+  "index_exists": true,
+  "css_exists": true,
+  "js_exists": true,
+  "logo_embedded": true,
+  "no_assets_reference_in_html": true,
+  "required_dom_ids": true,
+  "js_syntax_ok": true,
+  "js_syntax_output": ""
+}
